@@ -2,6 +2,10 @@
 
 A command-line todo application that stores tasks in memory. This application allows users to add, view, update, delete, and mark tasks as complete.
 
+[![License: MIT](https://img.shields.io/badge/License-MIT-yellow.svg)](https://opensource.org/licenses/MIT)
+[![Python 3.13+](https://img.shields.io/badge/Python-3.13+-blue.svg)](https://www.python.org/downloads/)
+[![uv](https://img.shields.io/badge/uv-package%20manager-blue)](https://github.com/astral-sh/uv)
+
 ## Features
 
 - Add new tasks with descriptions
