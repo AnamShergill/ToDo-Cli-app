@@ -1,0 +1,8 @@
+# Requirements for CLI Todo Application
+# This project uses only Python standard library for the core application
+
+# For rich terminal output
+rich>=13.0.0
+
+# For testing
+pytest>=7.0.0
